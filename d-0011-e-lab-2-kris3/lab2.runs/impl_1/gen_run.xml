@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcsg324-1" LaunchTime="1713468503">
+  <File Type="ROUTE-PWR" Name="part2a_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="part2a.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="part2a_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="part2a_reports.tcl"/>
+  <File Type="OPT-RQA-PB" Name="part2a_rqa_opted.pb"/>
+  <File Type="BITSTR-MMI" Name="part2a.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="part2a_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="part2a_timing_summary_init.rpt"/>
+  <File Type="OPT-TIMING" Name="part2a_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="part2a_opt.dcp"/>
+  <File Type="OPT-DRC" Name="part2a_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="part2a.hwdef"/>
+  <File Type="PWROPT-DCP" Name="part2a_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="part2a_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="part2a_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="part2a_placed.dcp"/>
+  <File Type="PLACE-IO" Name="part2a_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="part2a_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="part2a_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="part2a_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="part2a_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="part2a_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="part2a_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="part2a.bin"/>
+  <File Type="PLACE-TIMING" Name="part2a_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="part2a_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="part2a_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="part2a_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="part2a.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="part2a_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="part2a_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="part2a_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="part2a.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="part2a_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="part2a_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="part2a_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="part2a_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="part2a_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="part2a_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="part2a_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="part2a_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="part2a_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="part2a_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="part2a_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="part2a_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="part2a_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="part2a_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="part2a_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="part2a_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="part2a_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="part2a_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="part2a_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="part2a_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="part2a_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="part2a_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="part2a_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="BCDcheck2_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="BCDcheck2_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="BCDcheck2_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="BCDcheck2_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="part2a.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="BCDcheck2_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="BCDcheck2_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="part2a.nky"/>
+  <File Type="BITSTR-BMM" Name="part2a_bd.bmm"/>
+  <File Type="PDI-FILE" Name="part2a.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="part2a_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="part2a_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="part2a.rcfi"/>
+  <File Type="CFI_FILE" Name="part2a.cfi"/>
+  <File Type="RNPI_FILE" Name="part2a.rnpi"/>
+  <File Type="NPI_FILE" Name="part2a.npi"/>
+  <File Type="RBD_FILE" Name="part2a.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="part2a.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="part2a.sysdef"/>
+  <File Type="BG-BGN" Name="part2a.bgn"/>
+  <File Type="BG-DRC" Name="part2a.drc"/>
+  <File Type="RDI-RDI" Name="part2a.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="part2a_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="part2a_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/bcdcheck3.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/bcdcheck2.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/bcdcheck4.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/part2a.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="part2a"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
