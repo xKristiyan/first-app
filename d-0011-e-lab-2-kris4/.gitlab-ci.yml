@@ -1,0 +1,9 @@
+vhdl_sim:
+  stage: test
+  tags:
+  - vhdl
+  before_script: 
+    - chmod +x `ls ./ci_scripts/*.sh`
+  script:
+    - ./ci_scripts/ci.sh
+
