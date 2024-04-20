@@ -1,0 +1,10 @@
+*.cache
+*.hw
+*.sim
+
+sim
+
+*.jou
+*.log
+*.pb
+
